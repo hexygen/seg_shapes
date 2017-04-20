@@ -1,6 +1,6 @@
 # Segmented Shapes Dataset
 
-This database was used in the paper "SHED: Shape Edit Distance for Fine-grained Shape Similarity".
+This database was used in the paper "SHED: Shape Edit Distance for Fine-grained Shape Similarity", SIGGRAPH ASIA 2015.
 
 These datasets are based on the [COSEG dataset](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssd.htm).
 We enriched some of the datasets to generate more variations within each set.
